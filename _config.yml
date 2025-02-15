@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Ajinkya / portfolio"
 title_separator          : "-"
 name                     : &name "Ajinkya Bhosale"
 description              : &description "personal description"
